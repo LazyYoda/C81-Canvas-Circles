@@ -1,0 +1,16 @@
+h1 {
+    color: crimson;
+    font-size: 45px;
+}
+
+.body_background {
+    background-size: cover;
+    background-position: center;
+}
+
+#mycanvas {
+    background-color: white;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 10px;
+}
